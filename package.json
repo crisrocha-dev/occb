@@ -1,0 +1,37 @@
+{
+  "name": "occb",
+  "version": "1.0.2",
+  "description": "Sistema de gerenciamento de blogs",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-cutter": "^0.2.0",
+    "cookies": "^0.8.0",
+    "cryptr": "^6.0.2",
+    "googleapis": "^39.2.0",
+    "knex": "^0.95.1",
+    "mysql2": "^2.2.5",
+    "nodemailer": "^6.5.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisrocha-dev/occb.git"
+  },
+  "author": "Cris Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisrocha-dev/occb/issues"
+  },
+  "homepage": "https://github.com/crisrocha-dev/occb#readme"
+}
